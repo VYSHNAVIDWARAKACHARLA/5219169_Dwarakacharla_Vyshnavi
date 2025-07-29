@@ -7,3 +7,4 @@
 ## Certificate Git
 [📄 View Certificate (PDF)](https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/Git/Certificates/5219169_Dwarakacharla_Vyshnavi.pdf?raw=true)
 
+<img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/Linux/assessment/5219169_Dwarakacharla_Vyshnavi.png" alt="Certificate" width="300"/>
