@@ -8,6 +8,10 @@
 [📄 View Certificate (PDF)](https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/Git/Certificates/5219169_Dwarakacharla_Vyshnavi.pdf?raw=true)
 
 
-## Linux
+## Linux - 1
 <img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/Linux/assessment/5219169_Dwarakacharla_Vyshnavi.png?raw=true" alt="Linux Assessment" width="300"/>
+
+## linux - 2
+<img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/Linux/assessment/5219169_Dwarakacharla_Vyshnavi_linux_2.png?raw=true" alt="Linux Assessment 2" width="300"/>
+
 
