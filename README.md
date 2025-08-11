@@ -14,4 +14,12 @@
 ## linux - 2
 <img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/Linux/assessment/5219169_Dwarakacharla_Vyshnavi_linux_2.png?raw=true" alt="Linux Assessment 2" width="300"/>
 
+## Introduction to c
+<img src="https://github.com/VYSHNAVIDWARAKARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/c%20language/assessments/5219169_Dwarakacharla%20Vyshnavi_introduction%20to%20c.jpg?raw=true" alt="C Language Assessment" width="300"/>
+
+## C intermediate
+<img src="https://github.com/VYSHNAVIDWARAKARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/c%20language/assessments/5219169_Dwarakacharla_Vyshnavi_c_intermediate.jpg?raw=true" alt="C Intermediate Assessment" width="300"/>
+
+
+
 
