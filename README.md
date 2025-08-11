@@ -15,13 +15,7 @@
 <img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/Linux/assessment/5219169_Dwarakacharla_Vyshnavi_linux_2.png?raw=true" alt="Linux Assessment 2" width="300"/>
 
 ## c language
-<a href="https://raw.githubusercontent.com/VYSHNAVIDWARAKARLA/5219169_Dwarakacharla_Vyshnavi/main/c%20language/assessments/5219169_Dwarakacharla%20Vyshnavi_introduction%20to%20c.jpg" target="_blank">
-  <img src="https://raw.githubusercontent.com/VYSHNAVIDWARAKARLA/5219169_Dwarakacharla_Vyshnavi/main/c%20language/assessments/5219169_Dwarakacharla%20Vyshnavi_introduction%20to%20c.jpg" alt="C Language Assessment" width="300"/>
-</a>
-
-<a href="https://raw.githubusercontent.com/VYSHNAVIDWARAKARLA/5219169_Dwarakacharla_Vyshnavi/main/c%20language/assessments/5219169_Dwarakacharla_Vyshnavi_c_intermediate.jpg" target="_blank">
-  <img src="https://raw.githubusercontent.com/VYSHNAVIDWARAKARLA/5219169_Dwarakacharla_Vyshnavi/main/c%20language/assessments/5219169_Dwarakacharla_Vyshnavi_c_intermediate.jpg" alt="C Intermediate Assessment" width="300"/>
-</a>
+<img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/c%20language/assessments/5219169_Dwarakacharla%20Vyshnavi_introduction%20to%20c.jpg" alt="c language " width="300"/>
 
 
 
