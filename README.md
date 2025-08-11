@@ -17,6 +17,8 @@
 ## c language
 <img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/c%20language/assessments/5219169_Dwarakacharla%20Vyshnavi_introduction%20to%20c.jpg" alt="c language " width="300"/>
 
+<img src="https://github.com/VYSHNAVIDWARAKACHARLA/5219169_Dwarakacharla_Vyshnavi/blob/main/c%20language/assessments/5219169_Dwarakacharla_Vyshnavi_c_intermediate.jpg" alt="c language intermediate" width="300"/>
+
 
 
 
